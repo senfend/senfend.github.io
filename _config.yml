@@ -9,6 +9,7 @@ logo_url: svg/min/logo.svg
 hero: 
     hero_img: hero.jpg
     hero_title: DentistSmile
+    hero_title: Newifi
     hero_description: A responsive Jekyll theme for dental clinics.
 
 # Contact form
@@ -34,6 +35,7 @@ testimonials:
 map:
     zoom: 17
     address: Von schroeders 273, Viña del mar, Chile
+    address: No.13B005 4th Floor, 1st Building, Huaqiang Electronic World, Futian District, ShenZhen, China
     address_details: svg/min/logo.svg
 
 # Social settings
@@ -46,6 +48,7 @@ feed: yes
 
 # Footer
 copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2020 newifi - All rights reserved
 
 # Build settings
 markdown: kramdown
