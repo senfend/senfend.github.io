@@ -3,29 +3,27 @@ title: DentistSmile | Dental Jekyll Theme
 description: "A responsive Jekyll theme for dental clinics."
 baseurl: "/newifi" # the subpath of your site, e.g. /blog
 url: "https://arvinwang8721.github.io" # the name of your domain
-logo_url: svg/min/logo.svg
+logo_url: svg/min/logo.png
 
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
     hero_title: Newifi
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_description: Newifi technology for your wireless network.
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: 269248@qq.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: +8619957825032
+    email: enjoy.wifi@gmail.com
+    address: 4th Floor, 1st Building, Huangqiang Electronic World <br> Shenzhen - China
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_friday: 9:00 – 18:00 CST
+saturday: 10:00 – 17:00 CST
+sunday: 10:00 – 15:00 CST
 
 # Testimonials
 testimonials:
@@ -34,7 +32,6 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
     address: No.13B005 4th Floor, 1st Building, Huaqiang Electronic World, Futian District, ShenZhen, China
     address_details: svg/min/logo.svg
 
@@ -47,7 +44,6 @@ skype: skype:obaez_design?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
 copyright: © 2020 newifi - All rights reserved
 
 # Build settings
