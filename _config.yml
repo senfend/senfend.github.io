@@ -1,9 +1,9 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: Newifi | Wireless 3C Products
+description: "Newifi technology for your wireless network"
 baseurl: "/newifi" # the subpath of your site, e.g. /blog
 url: "https://arvinwang8721.github.io" # the name of your domain
-logo_url: svg/min/logo.png
+logo_url: svg/min/logo.jpg
 
 # Hero
 hero: 
